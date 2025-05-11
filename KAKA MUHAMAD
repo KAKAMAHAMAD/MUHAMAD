@@ -118,3 +118,21 @@ footer {
     background-color: #222;
     font-size: 0.9rem;
 }
+<section class="movie-grid">
+    <div class="movie-card">
+        <img src="https://via.placeholder.com/200x300" alt="Movie Poster">
+        <h3>Movie Title</h3>
+        <p>Action | 2025</p>
+    </div>
+    <!-- Add more movie-card blocks here -->
+</section>
+<div class="movie-card">
+    <img src="https://via.placeholder.com/200x300" alt="Inception">
+    <h3>Inception</h3>
+    <p>Sci-Fi | 2010</p>
+</div>
+<div class="movie-card">
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg" alt="Inception">
+    <h3>Inception</h3>
+    <p>Sci-Fi | 2010</p>
+</div>
