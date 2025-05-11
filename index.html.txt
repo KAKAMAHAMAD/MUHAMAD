@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MUHAMAD - Movies & Series</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>MUHAMAD</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Movies</a></li>
+                    <li><a href="#">Series</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h2>Welcome to MUHAMAD</h2>
+                <p>Discover the best movies and TV series, updated daily.</p>
+            </div>
+        </section>
+
+        <section class="movie-grid container">
+            <div class="movie-card">
+                <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg" alt="Inception">
+                <h3>Inception</h3>
+                <p>Sci-Fi | 2010</p>
+            </div>
+            <div class="movie-card">
+                <img src="https://upload.wikimedia.org/wikipedia/en/a/a7/Avengers_Endgame_poster.jpg" alt="Avengers Endgame">
+                <h3>Avengers: Endgame</h3>
+                <p>Action | 2019</p>
+            </div>
+            <div class="movie-card">
+                <img src="https://upload.wikimedia.org/wikipedia/en/e/eb/Interstellar_film_poster.jpg" alt="Interstellar">
+                <h3>Interstellar</h3>
+                <p>Sci-Fi | 2014</p>
+            </div>
+            <div class="movie-card">
+                <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/The_Batman_%282022_film%29_poster.jpg" alt="The Batman">
+                <h3>The Batman</h3>
+                <p>Crime | 2022</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 MUHAMAD. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
